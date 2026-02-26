@@ -18,43 +18,26 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![JSON](https://img.shields.io/badge/-JSON-333?style=flat&logo=json)
+![UML](https://img.shields.io/badge/-UML-333?style=flat)
+![Draw.io](https://img.shields.io/badge/-Draw.io-333?style=flat&logo=diagramsdotnet)
 
 ---
 
 ### 🚀 Pet Projects
 
 - 🕒 [Pomodoro Timer](https://github.com/Archi-861/pomodoro-timer) — a customizable desktop Pomodoro app with themes, stats, and session settings. Built for learning and UI practice.
+- 🤖 [Sport_Kara_Bot](https://github.com/Archi-861/Sport_Kara_Bot) — Telegram bot (Aiogram): a bot for monitoring the training regime, reminder, recording results, exporting to a file..
+- 🗒️ [aNotes](https://github.com/Archi-861/aNotes) — a Python console application for creating and storing notes in files.
+
 
 ---
 
-### 📊 Stats
-
-#### GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archi-861&show_icons=true&theme=transparent" />
-</p>
-
-#### Codewars
-
-<p align="center">
-  <img src="https://www.codewars.com/users/Archi-861/badges/large" alt="Codewars Stats">
-</p>
-
-#### LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/archi-861?theme=light&font=JetBrains+Mono&ext=activity" alt="LeetCode Stats" />
-</p>
-
----
 
 ### 📫 How to reach me:
 
 - Telegram: [@artemkashcheev](https://t.me/artemkashcheev)
 - LinkedIn: [linkedin.com/in/artemkashcheev](https://www.linkedin.com/in/artemkashcheev/)
-- Codewars: [Archi-861](https://www.codewars.com/users/Archi-861)
-- LeetCode: [archi-861](https://leetcode.com/archi-861/)
 
 ---
 
