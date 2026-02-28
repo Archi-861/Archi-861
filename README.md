@@ -26,9 +26,9 @@
 
 ### 🚀 Pet Projects
 
-- 🕒 [Pomodoro Timer](https://github.com/Archi-861/pomodoro-timer](https://github.com/Archi-861/aPomodoro) — a customizable desktop Pomodoro app with themes, stats, and session settings. Built for learning and UI practice.
-- 🤖 [Sport_Kara_Bot](https://github.com/Archi-861/Sport_Kara_Bot](https://github.com/Archi-861/Sport_Kara_Bot) — Telegram bot (Aiogram): a bot for monitoring the training regime, reminder, recording results, exporting to a file..
-- 🗒️ [aNotes](https://github.com/Archi-861/aNotes](https://github.com/Archi-861/aNotes) — a Python console application for creating and storing notes in files.
+- 🕒 [Pomodoro Timer](https://github.com/Archi-861/aPomodoro) — a customizable desktop Pomodoro app with themes, stats, and session settings. Built for learning and UI practice.
+- 🤖 [Sport_Kara_Bot](https://github.com/Archi-861/Sport_Kara_Bot) — Telegram bot (Aiogram): a bot for monitoring the training regime, reminder, recording results, exporting to a file..
+- 🗒️ [aNotes](https://github.com/Archi-861/aNotes) — a Python console application for creating and storing notes in files.
 
 
 ---
